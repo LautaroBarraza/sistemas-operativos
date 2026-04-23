@@ -2,6 +2,6 @@
 
 
 while true ; do
-	echo "log app" >> "./logs/log_app.log"
+	echo "log apphhfhfhfhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh" >> "./logs/log_app.log"
 	sleep 2
 done
