@@ -1,0 +1,5 @@
+*.class
+bin/
+*.zip
+salida.txt
+scripting/logs/
